@@ -9,7 +9,7 @@ is_private: false
 name: 'Aeroo Reports
 
     '
-odoo_version: 18.0
+odoo_version: 19.0
 pre_commit_ignore: []
 slug: ''
 
